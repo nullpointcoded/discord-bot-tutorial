@@ -11,6 +11,7 @@ This is the source code for my Discord bot tutorial series on YouTube:
 - How to create slash commands
 - How to use cogs to organize your bot
 - How to load commands dynamically
+- And more custom features
 
 ## 🚀 Running the Bot
 
